@@ -1,0 +1,48 @@
+.header {
+    background-color:white;
+    color: #333333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.288);
+}
+
+.header h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.header p {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.header ul li {
+    margin: 0 1rem;
+}
+
+.header ul li a {
+    text-decoration: none;
+    padding: 0px 0px 10px ;
+    font-size: large;
+    color: #333333;
+    /* color blanco para los enlaces */
+}
+
+.header ul li a:hover {
+    color:#54c48d ;
+    /* color turquesa al pasar el mouse */
+}
+  
+.logo{ 
+    width: 20vw;
+}

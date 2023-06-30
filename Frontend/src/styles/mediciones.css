@@ -1,0 +1,12 @@
+.tituloDatos{
+    color: #333333;
+    padding: 20px 25px 0px;
+    text-align: center;
+     /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+  
+  }
+  
+  .mediciones{
+    padding: none;
+    background-color: white;
+  }

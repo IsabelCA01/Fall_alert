@@ -1,0 +1,25 @@
+.titlestate {
+    color: #186440;
+    background-color: #54c48d;
+    width: 50%;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+
+
+.container1{
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 20px 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.state{
+    width: 50%;
+    color:#333333;
+    padding-left: 10px;
+}

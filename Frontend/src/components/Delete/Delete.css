@@ -1,0 +1,39 @@
+.modalBack {
+    background-color: white;
+    padding: 20px ;
+    width: 45%;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.288);
+    margin: 0px 10px;
+  }
+ 
+  
+  .closeBtn {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #333333;
+    color: white;
+    border-radius: 3px;
+  }
+  
+ 
+  .btndel {
+    background-color: #54bce9;
+    width: 40%;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+  .btndel:hover {
+    transform: translateY(-2px);
+  }
